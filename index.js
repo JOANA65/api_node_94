@@ -1,1 +1,1 @@
-console.log("Hola mundo mi nombre es joana y este es mi commit");
+console.log("Hola mundo mi nombre es joana");
