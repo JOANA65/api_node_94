@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "proyecto grupo 94",
   "license": "ISC",
-  "author": "Joana Benitez Sanchez",
+  "author": "Joana Benitez",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
